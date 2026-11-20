@@ -1,0 +1,4 @@
+/* Estilos globais. O Bootstrap é carregado via angular.json. */
+main h1 {
+  font-weight: 600;
+}
